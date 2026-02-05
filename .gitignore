@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.npy
+.env
+venv/
+.venv/
+
+# Temporary audio/video
+audio_temp.*
+audio_stego_temp.*
+*.wav
+*.mp3
+*.m4a
+*.avi
+*.mp4
+*.webm
+*.mkv
+
+# Generated images & frames
+*.bmp
+*.png
+*.jpg
+stego_*
+cover_image.*
+
+# Binary & encryption output
+*.bin
+
+# Experimental output folders
+Sample_cover_files/
+output/
+dist/
+build/
+
+# MATLAB
+*.asv
+
+# OS junk
+.DS_Store
+Thumbs.db
